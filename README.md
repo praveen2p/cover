@@ -194,8 +194,8 @@ Publish the website in the LocalHost.
 
 ```
 ## OUTPUT:
+![Screenshot 2024-04-02 181147](https://github.com/praveen2p/cover/assets/151658061/3c398a76-d624-4cc1-beee-24461aaba131)
 
-![image](https://github.com/praveen2p/cover/assets/151658061/ab368a30-6f97-403b-acdf-1d55c5024e97)
 
 
 ## RESULT:
